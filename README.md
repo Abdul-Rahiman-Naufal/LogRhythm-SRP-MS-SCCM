@@ -1,4 +1,4 @@
-SmartResponse for Microsoft SCCM.
+LogRhythm SmartResponse for Microsoft SCCM.
 
 This Plugin has two actions.
 
